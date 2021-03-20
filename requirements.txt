@@ -38,7 +38,7 @@ ipywidgets==7.5.1
 isort @ file:///C:/ci/isort_1600697297430/work
 itsdangerous==1.1.0
 jedi @ file:///C:/ci/jedi_1592833825077/work
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib==0.16.0
 jsonschema==3.2.0
 jupyter==1.0.0
